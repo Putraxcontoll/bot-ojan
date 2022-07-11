@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6281365681189'] //ur owner number
-global.ownername = "nazuaff"
-global.ytname = "DYRROTH YT" //ur yt chanel name
+global.owner = ['6285280609149'] //ur owner number
+global.ownername = "Putra"
+global.ytname = "GA PUNYA YT" //ur yt chanel name
 global.socialm = "GitHub: Warikrr" //ur github or insta name
-global.location = "Indonesia, Pekanbaru, Riau" //ur location
+global.location = "Indonesia, Sulawesi Selatan, WOTU" //ur location
 
 //bot bombdy
-global.botname = "Mikasa||Ackerman" //ur bot name
-global.websitex = "https://instagram.com/arrhmdfauzan_?igshid=YmMyMTA2M2Y=" //ur website
+global.botname = "PUTRA||TYTYD" //ur bot name
+global.websitex = "http://tiktok.com/@anime_.edit_00" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "©Mikasa||Ackerman"
-global.author = "Nazuaff"
+global.packname = "©PUTRA||BOTZ"
+global.author = "PUTRA"
 global.themeemoji = "👻"
 global.reactmoji = "🗿"
-global.ownertag = ['zan'] //ur owner tag
-global.ownernummenu = ['6281365681189'] //ur owner number in menu and all
-global.watermark = "MikasaBotz" //ur watermark
-global.botscript = "https://instagram.com/arrhmdfauzan_?igshid=YmMyMTA2M2Y"
-global.linkz1 = "https://chat.whatsapp.com/KXAcnoSD5quG2V7orGth4M"
-global.linkz2 = "https://instagram.com/arrhmdfauzan_?igshid=YmMyMTA2M2Y"
+global.ownertag = ['putt'] //ur owner tag
+global.ownernummenu = ['6285280609149'] //ur owner number in menu and all
+global.watermark = "PutraBotz" //ur watermark
+global.botscript = "http://tiktok.com/@anime_.edit_00"
+global.linkz1 = "https://chat.whatsapp.com/L7FWfpXoGkRDEKUoEPN9g5"
+global.linkz2 = "https://chat.whatsapp.com/L7FWfpXoGkRDEKUoEPN9g5"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -101,7 +101,7 @@ global.mess = {
     group: '*Khusus Didalam Group*',
     private: '*Khusus Chat Private*',
     bot: '*Khusus Yang Jadibot*',
-    wait: '*Sabar Sayangg*',
+    wait: '*Sabar Mwek*',
     linkm: '*Linknya Mana Sayang?*',
     error: 'Error beb!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
