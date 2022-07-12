@@ -54,7 +54,7 @@ global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "©PUTRA||BOTZ"
 global.author = "PUTRA"
 global.themeemoji = "👻"
-global.reactmoji = "🗿"
+global.reactmoji = "🥶"
 global.ownertag = ['putt'] //ur owner tag
 global.ownernummenu = ['6285280609149'] //ur owner number in menu and all
 global.watermark = "PutraBotz" //ur watermark
@@ -94,7 +94,7 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓',
+    success: 'Wibu-Wibu',
     admin: '*Khusus Admin*',
     botAdmin: '*Bot Bukan Admin*',
     owner: '*Khusus Pemilik Bot*',
@@ -105,7 +105,7 @@ global.mess = {
     linkm: '*Linknya Mana Sayang?*',
     error: 'Error beb!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'Fitur nsfw belum diaktifkan, silahkan hubungi admin untuk aktivasi',
+    nsfw: 'Hayoo Mau Ngapain, Tobak Goblok',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
 global.limitawal = {
